@@ -1,0 +1,2 @@
+# Install_MySQL_Server_on_the_kubuntu
+使用kubuntu從零開始建立MySQL server資料庫。
